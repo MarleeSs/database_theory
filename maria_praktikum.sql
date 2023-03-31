@@ -91,4 +91,5 @@ INSERT INTO resep (idresep, judul, gambar, cara_pembuatan, vidio, status_resep, 
 (51, 'RISOLES', 'risoles.jpg', 'G', 'risoles.mp4', 'publish', 'rakho@gmail.com', 'rakho@gmail.com'),
 (52, 'SEBLAK', 'seblak.jpg', 'H', 'seblak.mp4', 'publish', 'rakhe@gmail.com', 'rakhe@gmail.com'),
 (53, 'ES TEH', 'esteh.jpg', 'H', 'esteh.mp4', 'publish', 'idho@gmail.com', 'idho@gmail.com'),
-(54, 'ES CAMPUR', 'escampur.jpg', 'I', 'escampur.mp4', 'draf', 'ahan@gmail.com', 'ahan@gmail.com');
+(54, 'ES CAMPUR', 'escampur.jpg', 'I', 'escampur.mp4', 'draf', 'ahan@gmail.com', '
+ahan@gmail.com');

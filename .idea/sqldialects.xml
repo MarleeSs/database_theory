@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/data_manipulation.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/maria_praktikum.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/sql_theory.sql" dialect="MySQL" />
   </component>
