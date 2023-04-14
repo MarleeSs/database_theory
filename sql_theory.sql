@@ -1,6 +1,6 @@
 use sql_dasar;
 use laravel_theory;
-SELECT DISTINCT title, description
+SELECT DISTINCT judul, cara_pembuatan
 from recipes;
 SELECT *
 FROM users;
