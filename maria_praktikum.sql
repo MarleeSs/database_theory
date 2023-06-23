@@ -54,7 +54,7 @@ INSERT INTO resep (idresep, judul, gambar, cara_pembuatan, vidio, status_resep, 
 (14, 'BATAGOR', 'BATAGOR.JPG', 'A', 'BATAGOR.MP4', 'submit', 'RI@GMAIL.COM', 'RIR@GMAIL.COM'),
 (15, 'CILOR', 'CILOR.JPG', 'A', 'CILOR.MP4', 'publish', 'GER@GMAIL.COM', 'GER@GMAIL.COM'),
 (16, 'CIMOL', 'CIMOL.JPG', 'A', 'CIMOL.MP4', 'draf', 'RIJER@GMAIL.COM', 'RIJER@GMAIL.COM'),
-(17, 'MILOR', 'MILOR.JPG', 'A', 'MILOR.MP4', 'publish', 'RIG@GMAIL.COM', 'RIG@GMAIL.COM'),
+(17, 'MILOR', 'MILOR.JPG', 'A', 'MILOR.MP4', 'publish', 'RIG@GMAIL.COM', 'RIG@GMAIL.COM'),r
 (18, 'CILOK', 'CILOK.JPG', 'A', 'CILOK.MP4', 'unpublished', 'GERR@GMAIL.COM', 'GERR@GMAIL.COM'),
 (19, 'CILUNG', 'CILUNG.JPG', 'A', 'CILUNG.MP4', 'draf', 'RIGGR@GMAIL.COM', 'RIGG@GMAIL.COM'),
 (20, 'BASRENG', 'BASRENG.JPG', 'A', 'BASRENG.MP4', 'unpublished', 'R@GMAIL.COM', 'R@GMAIL.COM'),

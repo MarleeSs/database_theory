@@ -1,0 +1,27 @@
+@startuml
+
+entity Buku {
+id : int <<FK>>
+--
+judul : string
+pengarang : string
+penerbit : string
+tahun_terbit : int
+}
+
+entity Anggota {
+id : int <<FK>>
+--
+nama : string
+}
+
+entity Peminjaman {
+id : int <<PK>>
+--
+id_buku : int <<FK>>
+id_anggota : int <<FK>>
+}
+
+Buku||--|{Peminjaman
+Anggota||--|{Peminjaman
+@enduml
